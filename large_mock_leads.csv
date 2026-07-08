@@ -1,0 +1,101 @@
+Lead Date,Full Name,Primary Email,Secondary Email,Phone 1,Phone 2,Company Name,Location,Campaign Source,Status,Comments
+2026-04-08,James Doe,james.doe@test.com,,9870840062,,Davis Enterprises,Pune,sarjapur_plots,Closed,Generated row 1
+2026-04-17,John Lee,john.lee@startup.io,,9821168545,,Martinez Enterprises,Pune,varah_swamy,New,Generated row 2
+2026-04-02,James Garcia,james.garcia@tech.net,,9894259347,8830511862,Johnson Enterprises,New York,Referral,New,Generated row 3
+2026-06-11,Michael Brown,michael.brown@tech.net,,9844988787,,Singh Enterprises,London,meridian_tower,In Progress,Generated row 4
+2026-05-31,James Davis,james.davis@test.com,,9869880554,,Garcia Enterprises,New York,leads_on_demand,New,Generated row 5
+2026-04-01,Olivia Lee,olivia.lee@company.org,work.olivia.lee@company.org,9876018360,,Garcia Enterprises,Toronto,leads_on_demand,In Progress,Generated row 6
+2026-06-09,John Smith,john.smith@example.com,work.john.smith@example.com,9879779009,,Brown Enterprises,Toronto,meridian_tower,New,Generated row 7
+2026-03-15,John Johnson,john.johnson@test.com,,9899529376,8826463100,Davis Enterprises,Delhi,eden_park,Bad,Generated row 8
+2026-05-30,John Davis,john.davis@example.com,,9875267842,,Patel Enterprises,Pune,leads_on_demand,Closed,Generated row 9
+2026-05-02,James Doe,,,,,Doe Enterprises,Bangalore,sarjapur_plots,In Progress,Generated row 10
+2026-05-14,David Martinez,david.martinez@startup.io,,9897517562,,Singh Enterprises,Mumbai,varah_swamy,Follow Up,Generated row 11
+2026-05-26,Sarah Johnson,sarah.johnson@company.org,,9852178778,,Singh Enterprises,Berlin,sarjapur_plots,Bad,Generated row 12
+2026-06-09,David Patel,david.patel@company.org,work.david.patel@company.org,9857083194,,Martinez Enterprises,Toronto,Google Search,In Progress,Generated row 13
+2026-07-02,Priya Doe,priya.doe@startup.io,work.priya.doe@startup.io,9887873442,,Martinez Enterprises,London,sarjapur_plots,Closed,Generated row 14
+2026-06-11,David Smith,david.smith@tech.net,,9835450581,,Johnson Enterprises,Delhi,eden_park,New,Generated row 15
+2026-05-16,Rajesh Davis,rajesh.davis@test.com,,9865050778,,Brown Enterprises,London,sarjapur_plots,Not Connected,Generated row 16
+2026-06-13,Priya Singh,priya.singh@test.com,,9872640454,8897528747,Doe Enterprises,Toronto,Facebook Ad,In Progress,Generated row 17
+2026-05-11,Rajesh Doe,rajesh.doe@tech.net,,9889241322,8848121104,Patel Enterprises,Mumbai,leads_on_demand,Closed,Generated row 18
+2026-03-24,Sophia Garcia,sophia.garcia@test.com,,9876041848,,Patel Enterprises,Toronto,sarjapur_plots,Bad,Generated row 19
+2026-07-06,James Martinez,james.martinez@example.com,work.james.martinez@example.com,9847113292,,Martinez Enterprises,Toronto,Direct,Not Connected,Generated row 20
+2026-04-05,Emma Garcia,emma.garcia@test.com,,9858610025,,Brown Enterprises,Sydney,varah_swamy,Lost,Generated row 21
+2026-05-05,Olivia Martinez,olivia.martinez@startup.io,work.olivia.martinez@startup.io,9820209166,,Doe Enterprises,Mumbai,Facebook Ad,Follow Up,Generated row 22
+2026-04-04,James Singh,james.singh@startup.io,,9896878706,,Martinez Enterprises,London,varah_swamy,Not Connected,Generated row 23
+2026-03-31,John Doe,,,,,Brown Enterprises,Pune,Referral,New,Generated row 24
+2026-03-26,Emma Smith,emma.smith@tech.net,,9855399995,,Lee Enterprises,Toronto,leads_on_demand,Not Connected,Generated row 25
+2026-06-21,Sarah Doe,sarah.doe@startup.io,,9859019657,8826326778,Doe Enterprises,Toronto,Google Search,In Progress,Generated row 26
+2026-05-31,James Garcia,james.garcia@test.com,work.james.garcia@test.com,9884983707,,Smith Enterprises,London,varah_swamy,In Progress,Generated row 27
+2026-06-09,Emma Garcia,emma.garcia@company.org,,9846178936,,Martinez Enterprises,London,Direct,Not Connected,Generated row 28
+2026-06-29,Sophia Johnson,sophia.johnson@example.com,,9899007384,,Singh Enterprises,Sydney,Direct,Lost,Generated row 29
+2026-05-29,Michael Smith,michael.smith@test.com,work.michael.smith@test.com,9834669260,,Davis Enterprises,Sydney,leads_on_demand,Follow Up,Generated row 30
+2026-03-25,David Davis,david.davis@example.com,,9835204390,,Singh Enterprises,New York,eden_park,Not Connected,Generated row 31
+2026-05-24,Rajesh Garcia,rajesh.garcia@tech.net,,9862710399,8892081473,Johnson Enterprises,Delhi,eden_park,Closed,Generated row 32
+2026-05-07,Priya Singh,priya.singh@startup.io,work.priya.singh@startup.io,9857684662,8856366057,Singh Enterprises,Berlin,sarjapur_plots,Bad,Generated row 33
+2026-04-17,Sarah Smith,,work.sarah.smith@startup.io,,,Brown Enterprises,San Francisco,leads_on_demand,Lost,Generated row 34
+2026-04-07,John Smith,john.smith@tech.net,,9889096846,8879807092,Brown Enterprises,San Francisco,varah_swamy,Lost,Generated row 35
+2026-06-21,Rajesh Johnson,rajesh.johnson@example.com,,9851413427,,Johnson Enterprises,Delhi,varah_swamy,Bad,Generated row 36
+2026-07-03,Sarah Davis,sarah.davis@tech.net,,9817463840,8823239564,Patel Enterprises,Berlin,Facebook Ad,In Progress,Generated row 37
+2026-03-26,Sophia Smith,sophia.smith@test.com,,9860628699,,Smith Enterprises,San Francisco,Facebook Ad,Bad,Generated row 38
+2026-03-31,Rajesh Davis,rajesh.davis@company.org,,9825924622,,Patel Enterprises,New York,Facebook Ad,New,Generated row 39
+2026-05-11,James Davis,james.davis@tech.net,,9864860949,,Brown Enterprises,Bangalore,sarjapur_plots,Closed,Generated row 40
+2026-06-30,Sarah Davis,sarah.davis@test.com,,9873494732,,Garcia Enterprises,Berlin,sarjapur_plots,Follow Up,Generated row 41
+2026-05-24,David Martinez,david.martinez@company.org,,9858316260,,Singh Enterprises,Mumbai,eden_park,Closed,Generated row 42
+2026-04-17,Emma Brown,emma.brown@example.com,,9881320714,,Brown Enterprises,Delhi,leads_on_demand,In Progress,Generated row 43
+2026-06-01,Rajesh Garcia,rajesh.garcia@tech.net,,9889084280,,Garcia Enterprises,San Francisco,meridian_tower,Not Connected,Generated row 44
+2026-05-16,Priya Brown,priya.brown@example.com,,9836209304,,Singh Enterprises,Mumbai,Direct,Closed,Generated row 45
+2026-05-11,Emma Brown,emma.brown@company.org,,9889905976,,Martinez Enterprises,Delhi,Facebook Ad,Closed,Generated row 46
+2026-05-15,Rajesh Patel,rajesh.patel@company.org,,9822918170,8848047698,Patel Enterprises,Bangalore,Facebook Ad,Closed,Generated row 47
+2026-04-17,Emma Lee,emma.lee@company.org,,9868203814,,Lee Enterprises,New York,varah_swamy,New,Generated row 48
+2026-04-29,Sophia Garcia,sophia.garcia@example.com,,9871967794,,Brown Enterprises,Berlin,varah_swamy,Lost,Generated row 49
+2026-05-13,Priya Martinez,priya.martinez@tech.net,,9834743790,,Davis Enterprises,Delhi,Direct,In Progress,Generated row 50
+2026-06-08,Michael Martinez,michael.martinez@tech.net,,9883418795,8888420001,Martinez Enterprises,Pune,eden_park,Lost,Generated row 51
+2026-07-02,Sarah Brown,sarah.brown@tech.net,,9814275879,,Brown Enterprises,Toronto,Direct,Closed,Generated row 52
+2026-07-04,Priya Johnson,priya.johnson@company.org,work.priya.johnson@company.org,9820532336,,Doe Enterprises,San Francisco,Direct,Lost,Generated row 53
+2026-03-15,Priya Doe,priya.doe@test.com,,9841312126,,Singh Enterprises,New York,meridian_tower,In Progress,Generated row 54
+2026-04-16,Rajesh Brown,rajesh.brown@example.com,,9824612127,8867570348,Garcia Enterprises,London,varah_swamy,Not Connected,Generated row 55
+2026-05-16,Sophia Patel,sophia.patel@test.com,,9866991929,8864826281,Doe Enterprises,Berlin,sarjapur_plots,In Progress,Generated row 56
+2026-03-18,John Doe,john.doe@example.com,work.john.doe@example.com,9861163903,,Garcia Enterprises,Sydney,eden_park,Not Connected,Generated row 57
+2026-07-01,Rajesh Singh,,,,,Martinez Enterprises,Pune,meridian_tower,New,Generated row 58
+2026-03-17,Olivia Smith,olivia.smith@company.org,work.olivia.smith@company.org,9889676664,,Patel Enterprises,London,Facebook Ad,Bad,Generated row 59
+2026-06-30,Rajesh Smith,rajesh.smith@example.com,,9881113660,,Davis Enterprises,Toronto,eden_park,New,Generated row 60
+2026-06-26,Olivia Davis,,,,,Brown Enterprises,Mumbai,meridian_tower,Follow Up,Generated row 61
+2026-03-20,Priya Singh,priya.singh@test.com,,9815519762,8851148644,Doe Enterprises,Berlin,meridian_tower,Follow Up,Generated row 62
+2026-05-28,David Brown,david.brown@example.com,,9850672704,8857714956,Doe Enterprises,Berlin,sarjapur_plots,Follow Up,Generated row 63
+2026-04-22,Priya Doe,priya.doe@startup.io,,9849435006,,Brown Enterprises,New York,varah_swamy,New,Generated row 64
+2026-04-24,Emma Patel,emma.patel@startup.io,work.emma.patel@startup.io,9810923111,,Johnson Enterprises,Pune,Facebook Ad,Bad,Generated row 65
+2026-05-28,Priya Singh,priya.singh@startup.io,work.priya.singh@startup.io,9838581286,,Lee Enterprises,Pune,Facebook Ad,Not Connected,Generated row 66
+2026-07-04,John Singh,john.singh@example.com,,9837911333,8838478436,Brown Enterprises,Delhi,meridian_tower,Bad,Generated row 67
+2026-04-08,John Lee,john.lee@company.org,,9879561745,,Martinez Enterprises,Bangalore,Facebook Ad,Follow Up,Generated row 68
+2026-03-29,Emma Doe,emma.doe@example.com,,9850975193,,Brown Enterprises,Berlin,leads_on_demand,Closed,Generated row 69
+2026-04-29,James Patel,james.patel@tech.net,,9839508430,8895456159,Smith Enterprises,Berlin,leads_on_demand,Lost,Generated row 70
+2026-04-21,Priya Patel,priya.patel@test.com,,9838833716,,Singh Enterprises,Bangalore,Facebook Ad,Lost,Generated row 71
+2026-06-22,Emma Singh,emma.singh@example.com,,9873506402,,Brown Enterprises,Berlin,sarjapur_plots,Not Connected,Generated row 72
+2026-05-03,James Patel,james.patel@company.org,,9853657591,8848286802,Doe Enterprises,Mumbai,eden_park,Lost,Generated row 73
+2026-06-30,Sarah Smith,sarah.smith@company.org,work.sarah.smith@company.org,9812941261,8878917916,Johnson Enterprises,Mumbai,eden_park,In Progress,Generated row 74
+2026-04-03,James Lee,james.lee@example.com,,9876132317,8826521801,Brown Enterprises,Mumbai,varah_swamy,New,Generated row 75
+2026-04-18,Michael Singh,michael.singh@example.com,,9897174779,8880144269,Davis Enterprises,San Francisco,varah_swamy,Follow Up,Generated row 76
+2026-04-02,Sarah Johnson,sarah.johnson@company.org,,9884778802,,Martinez Enterprises,New York,sarjapur_plots,Closed,Generated row 77
+2026-06-12,James Singh,james.singh@startup.io,,9896020183,,Johnson Enterprises,Toronto,Direct,Closed,Generated row 78
+2026-05-27,James Smith,james.smith@example.com,,9845019890,8882467970,Lee Enterprises,Mumbai,leads_on_demand,In Progress,Generated row 79
+2026-04-08,David Johnson,david.johnson@tech.net,,9812424874,,Lee Enterprises,New York,Direct,New,Generated row 80
+2026-06-17,David Garcia,david.garcia@company.org,,9836665316,,Smith Enterprises,Sydney,eden_park,Not Connected,Generated row 81
+2026-05-02,Priya Patel,priya.patel@example.com,,9833117377,,Davis Enterprises,Bangalore,eden_park,Lost,Generated row 82
+2026-04-18,Sarah Davis,sarah.davis@tech.net,,9882145045,,Doe Enterprises,London,sarjapur_plots,Not Connected,Generated row 83
+2026-05-26,Michael Garcia,michael.garcia@example.com,,9831109277,,Martinez Enterprises,Toronto,Google Search,Closed,Generated row 84
+2026-05-15,John Johnson,john.johnson@example.com,,9895487082,8810066219,Smith Enterprises,London,varah_swamy,In Progress,Generated row 85
+2026-04-25,John Lee,john.lee@example.com,work.john.lee@example.com,9899342828,,Doe Enterprises,Mumbai,meridian_tower,Bad,Generated row 86
+2026-03-21,Michael Brown,michael.brown@tech.net,,9891492070,,Patel Enterprises,Bangalore,leads_on_demand,In Progress,Generated row 87
+2026-04-03,Rajesh Smith,rajesh.smith@startup.io,,9811387251,,Smith Enterprises,Toronto,meridian_tower,New,Generated row 88
+2026-06-07,John Martinez,john.martinez@company.org,,9875418203,8830472072,Davis Enterprises,Delhi,leads_on_demand,Follow Up,Generated row 89
+2026-06-18,Priya Patel,priya.patel@company.org,,9822473834,,Patel Enterprises,London,eden_park,In Progress,Generated row 90
+2026-04-28,Sophia Patel,sophia.patel@test.com,,9818824606,,Martinez Enterprises,Mumbai,leads_on_demand,In Progress,Generated row 91
+2026-06-10,David Brown,,,,,Brown Enterprises,New York,Referral,Closed,Generated row 92
+2026-03-29,Priya Patel,priya.patel@tech.net,,9856943527,,Martinez Enterprises,Pune,leads_on_demand,Lost,Generated row 93
+2026-03-27,Priya Patel,priya.patel@company.org,work.priya.patel@company.org,9899510897,8823695005,Smith Enterprises,Berlin,eden_park,Bad,Generated row 94
+2026-04-14,Sophia Martinez,sophia.martinez@test.com,,9812406411,8837267310,Doe Enterprises,Mumbai,leads_on_demand,In Progress,Generated row 95
+2026-05-11,John Singh,john.singh@tech.net,,9835524904,,Smith Enterprises,Sydney,Google Search,Bad,Generated row 96
+2026-06-30,Sarah Doe,sarah.doe@tech.net,,9815114610,,Doe Enterprises,Mumbai,eden_park,Bad,Generated row 97
+2026-03-18,Priya Smith,priya.smith@company.org,,9853237849,8850044819,Doe Enterprises,Pune,Google Search,Not Connected,Generated row 98
+2026-06-27,Rajesh Martinez,rajesh.martinez@example.com,,9890710060,,Brown Enterprises,Mumbai,Google Search,Not Connected,Generated row 99
+2026-04-18,Sarah Lee,sarah.lee@test.com,,9836857090,,Martinez Enterprises,New York,eden_park,New,Generated row 100

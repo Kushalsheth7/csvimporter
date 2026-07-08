@@ -1,0 +1,6 @@
+Lead Date,Full Name,Primary Email,Secondary Email,Phone 1,Phone 2,Company Name,Location,Campaign Source,Status,Comments
+05/13/2026,John Doe,john.doe@example.com,,9876543210,,GrowEasy,Mumbai,Facebook Ad,Follow Up,Client asking to reschedule
+2026-05-14,Sarah Johnson,sarah.j@example.com,work@example.com,9876543211,1122334455,Tech Solutions,Bangalore,meridian_tower,Not Connected,"Person was busy, try next week"
+15-May-2026,Rajesh Patel,,,9876543212,,Startup Inc,Delhi,Google Search,Bad,Not interested
+2026-05-16,Invalid User,,,,,,Unknown,None,None,This user has no email or phone and should be skipped
+05/17/2026,Priya Singh,priya.singh@example.com,,9876543213,,Enterprise Corp,Pune,sarjapur_plots,Closed,"Deal closed, onboarding in progress"
