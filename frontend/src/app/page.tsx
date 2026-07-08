@@ -103,7 +103,8 @@ export default function Home() {
     formData.append("csv", file);
 
     try {
-      const response = await fetch("http://localhost:5000/api/upload", {
+      const API_URL = process.env.NEXT_PUBLIC_BACKEND_URL || "http://localhost:5000";
+      const response = await fetch(`${API_URL}/api/upload`, {
         method: "POST",
         body: formData,
       });
